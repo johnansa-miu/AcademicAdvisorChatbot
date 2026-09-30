@@ -1,0 +1,37 @@
+Institution: Cascade State University — School of Computer & Data Sciences
+
+DEGREE PROGRAMS
+- BS in Computer Science (120 credits): Core sequence is CS101 Intro to Programming -> CS201
+  Data Structures -> CS301 Algorithms -> CS310 Systems -> CS401 Capstone. Requires one AI/ML
+  elective and one Ethics in Computing elective before graduation.
+- BS in Data Science (120 credits): Core sequence is DS101 Intro to Data Science -> DS201
+  Statistics for Data Science -> DS250 Databases -> DS310 Machine Learning -> DS401 Capstone.
+  Requires MATH210 Linear Algebra and MATH220 Probability as prerequisites for DS310.
+- Minor in Artificial Intelligence (18 credits): CS201 Data Structures, CS330 Intro to AI,
+  CS331 Machine Learning, and two AI electives.
+
+PREREQUISITES
+- CS201 Data Structures requires CS101 Intro to Programming (grade C or higher).
+- CS301 Algorithms requires CS201 Data Structures.
+- DS310 Machine Learning requires DS201 Statistics, MATH210 Linear Algebra, and MATH220
+  Probability.
+- CS401 / DS401 Capstone requires senior standing (90+ credits) and department approval.
+
+REGISTRATION POLICIES
+- Standard full-time load is 12–18 credits per semester. Loads above 18 credits require
+  advisor sign-off.
+- Add/Drop deadline is the end of week 2 of the semester. Withdrawals (W grade) are allowed
+  through week 10.
+- Waitlisted students are auto-enrolled if a seat opens before week 1 ends.
+
+ACADEMIC STANDING
+- Good standing requires a cumulative GPA of 2.0 or higher.
+- A GPA below 2.0 for one semester results in Academic Warning; a second consecutive semester
+  results in Academic Probation with a mandatory advising hold on registration.
+- Students on probation are capped at 13 credits per semester until GPA recovers to 2.0+.
+
+WHEN TO ESCALATE TO A HUMAN ADVISOR
+Refer the student to the School of Computer & Data Sciences Advising Office
+(advising@cascadestate.edu) for: financial aid or tuition questions, medical or personal
+leave of absence, disciplinary/academic integrity cases, international/visa status, and any
+situation not covered by this document.
