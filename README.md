@@ -4,6 +4,7 @@
 
 This notebook builds a chatbot for a **real-time, practical use case**: an academic advisor
 assistant for a university's School of Computer & Data Sciences. It uses Python programming language
+![Academic Advisor Assistant](img/Image2.png)
 
 ## Use Case & Scope
 
@@ -26,3 +27,5 @@ Ava redirects the student to the human Advising Office rather than guessing.
 3. Validate each user message before it reaches the model (reusable `validate_input` helper).
 4. Send `system prompt + history + message` to the OpenAI Chat Completions API.
 5. Serve the conversation through a Gradio `ChatInterface` with example prompts.
+
+![AI Chatbot](img/Image1.png)
